@@ -1,4 +1,4 @@
-# M-dia-das-notas
+# Média-das-notas
 Calcular a média das notas, de números inteiros.
 
 Este código foi feito usando comandos básicos de JavaScript, juntamento com html5 e CSS3
